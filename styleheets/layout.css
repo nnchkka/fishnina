@@ -1,0 +1,11 @@
+
+.fish {
+	background: url('https://image.ibb.co/iRhXWL/an144.gif') no-repeat;
+	height: 61px;
+	width: 100px;
+	position: absolute;
+	top: 50px;
+	transition: left 2.4s;
+	animation: fish 5s ease infinite, fish-rotate 5s steps(1) infinite;
+  }
+  
